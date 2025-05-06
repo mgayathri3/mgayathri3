@@ -1,19 +1,20 @@
-<!-- 🚀 Full-width Animated Banner -->
+<!-- 🧑‍💻 Banner or Intro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mgayathri3/mgayathri3/main/assets/code-banner.gif" alt="Animated Coding Banner" style="width:100%; max-height:300px; object-fit:cover;">
+  <img src="./code.gif" width="500" alt="Animated Coding">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gayathri+M+%F0%9F%91%8B;Aspiring+Data+Engineer;AI+Enthusiast+%F0%9F%A4%96;Data+Visualizer+%F0%9F%93%8A" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there, I'm Gayathri M 👋</h1>
+<p align="center">
+  🚀 Aspiring Data Engineer | 💡 AI Enthusiast | 📊 Data Visualizer  
+</p>
 
 ---
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/gayathri.m_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gayathrim352004"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gayathri.m352004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/gayathri.m_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gayathrim352004"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gayathri.m352004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,5 +77,6 @@
 </p>
 
 ---
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
