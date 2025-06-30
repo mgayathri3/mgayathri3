@@ -3,7 +3,7 @@
   <img src="./code.gif" width="500" alt="Animated Coding">
 </p>
 
-<h1 align="center">Hi there, I'm Gayathri M 👋</h1>
+<h1 align="center">Hi there, I'm Gayathri 👋</h1>
 <p align="center">
   🚀 Aspiring Data Engineer | 💡 AI Enthusiast | 📊 Data Visualizer  
 </p>
