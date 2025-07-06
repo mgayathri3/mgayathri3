@@ -1,8 +1,8 @@
 <!-- 🧑‍💻 Banner or Intro -->
 <p align="center">
-  <img src="./code.gif" width="400" length="400" alt="Animated Coding">
+  <img src="./code.gif" width="500" alt="Animated Coding">
 </p>
-
+                                                                                                                                                       
 # Hi 👋, I'm Gayathri M
 
 I’m an aspiring **Data Engineer / Analyst** passionate about transforming data into impactful solutions. I enjoy building real-world projects — from dashboards to complete data pipelines and ML-based tools.
