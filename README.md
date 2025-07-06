@@ -25,7 +25,7 @@ I’m an aspiring **Data Engineer / Analyst** passionate about transforming data
 
 ## 🛠 Tech Stack
 
-**Languages**: Python, SQL, Java (Basics), JavaScript  
+**Languages**: Python, SQL, ML(Basics)
 **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib  
 **Tools**: Power BI, Tableau, Excel, Git, Figma  
 **Web**: HTML, CSS, JavaScript, React, Flask, Node.js  
