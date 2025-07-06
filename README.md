@@ -1,6 +1,6 @@
 <!-- 🧑‍💻 Banner or Intro -->
 <p align="center">
-  <img src="./code.gif" width="100" alt="Animated Coding">
+  <img src="./code.gif" width="400" alt="Animated Coding">
 </p>
 
 # Hi 👋, I'm Gayathri M
