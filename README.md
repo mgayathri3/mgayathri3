@@ -1,5 +1,5 @@
 <!-- 🧑‍💻 Banner or Intro -->
-<p align="right corner">
+<p align="right">
   <img src="./code.gif" width="500" alt="Animated Coding">
 </p>
                                                                                                                                                        
