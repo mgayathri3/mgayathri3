@@ -1,4 +1,4 @@
-<img src="https://codilime.com/img/why-golang-may-be-a-good-choice-for-your-project.jpg" alt="Developer Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="Animated Developer Banner" width="100%"/>
                                      
 # Hi 👋, I'm Gayathri M
 
