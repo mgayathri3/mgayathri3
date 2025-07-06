@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mgayathri3/mgayathri3/main/code.gif" alt="Coding GIF" width="100%"/>
+<img src="https://raw.githubusercontent.com/mgayathri3/mgayathri3/main/code.gif" alt="Banner" width="100%"/>
                                                                                                                                                   
 # Hi 👋, I'm Gayathri M
 
