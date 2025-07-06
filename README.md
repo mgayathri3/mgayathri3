@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/mgayathri3/mgayathri3/main/code.gif" alt="Banner" width="100%"/>
-                                                                                                                                                  
+<img src="https://codilime.com/media/why-golang_cover-1.png" alt="Developer Banner" width="100%"/>
+                                     
 # Hi 👋, I'm Gayathri M
 
 I’m an aspiring **Data Engineer / Analyst** passionate about transforming data into impactful solutions. I enjoy building real-world projects — from dashboards to complete data pipelines and ML-based tools.
