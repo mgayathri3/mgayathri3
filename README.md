@@ -55,16 +55,7 @@ I’m an aspiring **Data Engineer / Analyst** passionate about transforming data
 - 🧠 Finalist - IITM Hackathon, Techsurf2024  
 - 📑 Paper Presentation - “AI in Wardrobe Management”
 
----
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayathrim352004&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrim352004&theme=gruvbox" width="47%" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
