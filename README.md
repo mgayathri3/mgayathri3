@@ -1,6 +1,6 @@
 <img src="https://codilime.com/img/why-golang-may-be-a-good-choice-for-your-project.jpg" alt="Developer Banner" width="100%"/>
                                      
-# Hi 👋, I'm Gayathri M
+# Hi 👋, I'm Gayathri
 
 I’m an aspiring **Data Engineer / Analyst** passionate about transforming data into impactful solutions. I enjoy building real-world projects — from dashboards to complete data pipelines and ML-based tools.
 
