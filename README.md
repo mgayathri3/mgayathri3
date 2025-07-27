@@ -49,7 +49,7 @@ I’m an aspiring **Data Engineer / Analyst** passionate about transforming data
 ## 🏆 Achievements
 
 - 🥇 Winner - Quiztopia  
-- 🧠 Finalist - IITM Hackathon, Techsurf2024  
+- 🧠 Participated - IITM Hackathon, Techsurf2024  
 - 📑 Paper Presentation - “AI in Wardrobe Management”
 
 
