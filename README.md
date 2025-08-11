@@ -58,5 +58,5 @@ I’m an aspiring **Data Engineer / Analyst** passionate about transforming data
 
 📫 [gayathri.m352004@gmail.com] 
 🔗 [LinkedIn](https://www.linkedin.com/in/gayathrim352004/)  
-🌐 [Portfolio](https://portfolio-six-woad-3d0urlcn97.vercel.app/)
+🌐 [Portfolio](https://gayathriportfolio-two.vercel.app/)
 
