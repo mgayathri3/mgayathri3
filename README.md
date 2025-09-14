@@ -4,7 +4,7 @@
 
 I’m an aspiring **Data Engineer / Analyst** passionate about transforming data into impactful solutions. I enjoy building real-world projects — from dashboards to complete data pipelines and ML-based tools.
 
-- 🌱 Currently learning: **Advanced Python, DSA, System Design**
+- 🌱 Currently learning: **Spark,Hadoop,SQL Data warehousing concepts**
 - 🔭 Exploring: **SaaS products, Cloud ETL, and AI Automation**
 - 💡 Open to internships and collaborations in **Data/AI domain**
 
@@ -43,15 +43,6 @@ I’m an aspiring **Data Engineer / Analyst** passionate about transforming data
 
 - [🔗 HR Dashboard](https://github.com/gayathrim352004/HR-Dashboard)  
   Interactive HR insights built with Power BI and Excel.
-
-
-
-## 🏆 Achievements
-
-- 🥇 Winner - Quiztopia  
-- 🧠 Participated - IITM Hackathon, Techsurf2024  
-- 📑 Paper Presentation - “AI in Wardrobe Management”
-
 
 
 ## 🌐 Let's Connect
